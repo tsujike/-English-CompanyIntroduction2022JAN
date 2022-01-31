@@ -1,5 +1,6 @@
 ## PNG
-![02_Mission](https://user-images.githubusercontent.com/58035269/151585314-710af89c-6042-44f0-9cbf-c9bcd781bce5.png)
+![02_Mission](https://user-images.githubusercontent.com/58035269/151791031-ebab4e30-999c-419c-a375-fd5927df35dc.png)
+
 
 ## Speaker Note
 J:我々のミッションは「食を通じて世界中がつながりあう世界を実現します」です。
@@ -11,7 +12,7 @@ The Internet has made our society even more globalized.
 We live in an age where people, money, and goods can easily cross borders.
 
 J:しかしながら、それぞれの地域の発展が、成長には不可欠です。「持続可能性」は今や大切なキーワードです。
-However, the development of each country is essential for the growth of each other's country. 
+However, the development of each country is essential for the growth of each other's countries. 
 
 "SDGs" is now an important keyword.
 
