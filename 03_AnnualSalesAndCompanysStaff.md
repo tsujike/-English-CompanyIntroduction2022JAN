@@ -8,14 +8,14 @@ We have nine employees. We have Japanese, Taiwanese, and Chinese employees, and 
 The average age is 35, which I think is young.
 
 J:北海道札幌市に本社があります。現在、台湾Branchの設立準備中です。2022年中に法人を立ち上げたいと考えています。
-Our head office is located in Sapporo, Hokkaido. We are currently preparing to establish a Taiwan Branch and hope to launch the corporation by the end of 2022.
+Our head office is located in Sapporo, Hokkaido. We are preparing to establish a Taiwan branch. We plan to launch the company by the end of 2022.
 
 J:顧客は、東南アジアに集中しています。その理由は、リードタイムが短いという理由です。生鮮貨物を取り扱いますので、リードタイムは大事です。
-Our customers are concentrated in Southeast Asia. 
+Most of our customers are in Asian countries.
 
-The reason for this is that the lead time is short. 
+Because the lead time is short. Lead time is the time from order to delivery.
 
-We deal with fresh products, so lead time is important.
+We are taking fresh products, so lead time is very important.
 
 J:北海道から直行便が飛んでいる国もありますが、減便の影響もあり、いまはほとんどが台北や東京経由です。ほとんどの国が、出荷翌日にお届けできています。
 Although there are some countries that have direct flights from Hokkaido, most of them are now via Taipei or Tokyo due to the reduction of flights. 
