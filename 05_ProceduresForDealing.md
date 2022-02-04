@@ -17,7 +17,7 @@ Let me briefly explain the flow of the transaction.
 - - Once we receive your order, we will issue an invoice.
 
 - インボイスの額面100％を前入金お願いします。
-- - Please make a deposit of 100% of the face value of the invoice in advance.
+- - Please make a deposit of 100% of the face value in invoice in advance.
 
 - オーダーをいただいた時点で、フライトの予約は進んでいますので、入金を確認後、即出荷されます。（商品リストは在庫商品だからです。）
 - - When we receive your order, the flight is already booked, so it will be shipped immediately after the payment is confirmed. 
