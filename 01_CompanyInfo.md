@@ -24,5 +24,5 @@ http://www.tg-global.asia/
  J；特に日本酒の売り上げが伸びています。飲食店ではなく、自宅で友人や家族とDinnerを楽しむという方も増えています。
 In recent years, sales of Japanese sake have been increasing. 
 
-More and more people are enjoying dinners at home with friends and family instead of going out to restaurants. 
+I think this is why more and more people are enjoying dinners at home with friends and family instead of going out to restaurants. 
  
