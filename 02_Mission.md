@@ -4,12 +4,12 @@
 
 ## Speaker Note
 J:我々のミッションは「食を通じて世界中がつながりあう世界を実現します」です。
-Our mission is "Connecting the world through food".
+Our mission is "Connecting the world with food".
 
 J:インターネットにより、人々の生活はグローバル化が進みました。人・金・モノが、国境を越えて自由に飛び回る時代になりました。
-The Internet has made our society even more globalized. 
+The internet has connected us all over the world.
 
-We live in an age where people, money, and goods can easily cross borders.
+We live in a society where people, money and goods move freely.
 
 J:しかしながら、それぞれの地域の発展が、成長には不可欠です。「持続可能性」は今や大切なキーワードです。
 However, the development of each country is essential for the growth of each other's countries. 
