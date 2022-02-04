@@ -22,7 +22,7 @@ http://www.tg-global.asia/
  Our main customers are suppliers in Hong Kong, Taiwan, Malaysia, and Singapore.
  
  J；特に日本酒の売り上げが伸びています。飲食店ではなく、自宅で友人や家族とDinnerを楽しむという方も増えています。
-In recent years, sales of Japanese sake have been increasing. 
+In recent years, sales of Japanese sake has been increasing. 
 
 I think this is why more and more people are enjoying dinners at home with friends and family instead of going out to restaurants. 
  
