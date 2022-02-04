@@ -9,7 +9,7 @@ J：弊社は「北海道から、世界の食卓へ」をテーマに、2014年
 Our company has been working since 2014 under the theme of "To the worlds dining From Hokkaido".
 
 J：WEBサイトがあります。私たちの顧客は主にアジアのWholeSalerです。
-You can find our WEB site here. Our customers are mainly food WholeSaler in Asia.
+You can find our WEB site here. Our customers are mainly food WholeSaler in Asian countries.
 
 ## WEB
 
